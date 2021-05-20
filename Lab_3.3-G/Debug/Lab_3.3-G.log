@@ -1,0 +1,9 @@
+﻿  Bill.cpp
+F:\ООП\Тема 3\Lab_3.3-G\Lab_3.3-G\Lab_3.3-G\Bill.cpp(2,1): warning C4103: alignment changed after including header, may be due to missing #pragma pack(pop)
+  Source.cpp
+F:\ООП\Тема 3\Lab_3.3-G\Lab_3.3-G\Lab_3.3-G\Source.cpp(4,1): warning C4103: alignment changed after including header, may be due to missing #pragma pack(pop)
+  Time.cpp
+F:\ООП\Тема 3\Lab_3.3-G\Lab_3.3-G\Lab_3.3-G\Time.cpp(156,14): warning C4018: '<': signed/unsigned mismatch
+F:\ООП\Тема 3\Lab_3.3-G\Lab_3.3-G\Lab_3.3-G\Time.cpp(237,40): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  Generating Code...
+  Lab_3.3-G.vcxproj -> F:\ООП\Тема 3\Lab_3.3-G\Lab_3.3-G\Debug\Lab_3.3-G.exe
